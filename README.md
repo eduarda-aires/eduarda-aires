@@ -23,5 +23,5 @@ I'm an aspiring Software Developer with a strong interest in front-end developme
 
 
 ## 📫 How to Reach Me
-- LinkedIn: [[Click me!]](https://www.linkedin.com/in/eduarda-tavares/)
+- LinkedIn: [Click me!](https://www.linkedin.com/in/eduarda-tavares/)
 
