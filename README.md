@@ -8,7 +8,7 @@ I'm an aspiring Software Developer with a strong interest in front-end developme
 
 ## 🌟 Featured Projects
 - **Cosplay Planner Web App:** A React-based app designed to help users plan and organize cosplays, including features for tracking materials, deadlines, and sources of inspiration.
-- **[Ruralia Mobile App](https://github.com/yourusername/ruralia-mobile-app)**: A mobile application developed as my University Final Project, using **Flutter**, with the goal of transforming rural tourism in Portugal into a more sustainable and engaging experience through gamification.
+- **[Ruralia Mobile App](https://github.com/Betolas9/RURALIA-Final-Project)**: A mobile application developed as my University Final Project, using **Flutter**, with the goal of transforming rural tourism in Portugal into a more sustainable and engaging experience through gamification.
 
 
 ## 🛠️ My Skillset
