@@ -1,4 +1,4 @@
-## Hello! I'm Aires 👋
+## Hello! I'm Eduarda 👋
 I'm an aspiring Software Developer with a strong interest in front-end development, particularly in creating interactive user experiences using modern frameworks. I'm currently expanding my skillset in React and Angular through personal projects that align with my interests!
 
 ## 🎯 Interests
@@ -13,11 +13,8 @@ I'm an aspiring Software Developer with a strong interest in front-end developme
 - **Vulnerabilities in Software Products**: A web application developed in alignment with the **Application Security Verification Standard (ASVS)**, which helps identify and mitigate common security vulnerabilities in software products. Built using **Python**, **HTML**, **CSS**, and **JavaScript**, the app includes features for security assessment, reporting, and compliance tracking. This project demonstrates my ability to build secure web applications while adhering to industry standards.
 
 
-
-
 ## 🛠️ My Skillset
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat)
-![Angular](https://img.shields.io/badge/-Angular-D60000?logo=angular&logoColor=white&style=flat)
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white&style=flat)
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white&style=flat)
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white&style=flat)
