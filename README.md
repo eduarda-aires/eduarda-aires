@@ -1,12 +1,12 @@
-## Hello! I'm Eduarda 👋
+## Hello! I'm Eduarda 😊
 I'm an aspiring Software Developer with a strong interest in front-end development, particularly in creating interactive user experiences using modern frameworks. I'm currently expanding my skillset in React and Angular through personal projects that align with my interests!
 
-## 🎯 Interests
+## ✨ My interests
 - 📱 Tech: Mobile and web app development, UI/UX design, game design.
-- 🎮 Hobbies: I love gaming, reading (fantasy and sci-fi), and cosplaying characters from my favorite series!
+- 🎮 Hobbies: I love gaming, reading (fantasy and sci-fi), and cosplaying my favourite characters!
 - 🐱 Cats: I love cats!
 
-## 🌟 Featured Projects
+## 💻 Featured Projects
 - **[Cosplay Planner Web App](https://github.com/eduarda-aires/cosplanner)**: A React-based app designed to help users plan and organize cosplays, including features for tracking materials, deadlines, and sources of inspiration.
 - **Purrfect Escape - Labyrinth Game**: A simple labyrinth-escape game created for my Computer Graphics course, where the user plays as a cat navigating a maze to find and save other cats before escaping. Developed using JavaScript and basic 3D rendering techniques. [Play it here!](https://raw.githack.com/eduarda-aires/Purrfect-Escape/refs/heads/main/index.html)
 - **[Ruralia Mobile App](https://github.com/Betolas9/RURALIA-Final-Project)**: A mobile application developed as my University Final Project, using **Flutter**, with the goal of transforming rural tourism in Portugal into a more sustainable and engaging experience through gamification.
