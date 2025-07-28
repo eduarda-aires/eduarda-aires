@@ -1,10 +1,10 @@
 ## Hello! I'm Eduarda 😊
-I'm an aspiring Software Developer with a strong interest in front-end development, particularly in creating interactive user experiences using modern frameworks. I'm currently expanding my skillset in React and Angular through personal projects that align with my interests!
+I'm an aspiring Software Developer with a passion for front-end development, particularly in creating interactive user experiences. I'm currently expanding my skillset in React and Angular through personal projects that align with my interests!
 
 ## ✨ My interests
 - 📱 Tech: Mobile and web app development, UI/UX design, game design.
-- 🎮 Creative Hobbies: I love gaming, reading (mostly fantasy and sci-fi!), and cosplaying my favourite characters! And drawing - though I’ve taken a break from it, it's still something I enjoy. 
-- 🌏 Other interests: I’m currently learning Japanese in my free time, as it's one of my dreams to visit Japan.
+- 🎮 Creative Hobbies: I love gaming, reading (mostly fantasy and sci-fi!), and cosplaying my favourite characters. And drawing - though I’ve taken a break from it, it's still something I enjoy! 
+- 🌏 Other interests: I’m currently learning Japanese in my free time, as it's one of my dreams to visit Japan. 🌸
 - 🐱 Cats: I looove cats! And bubble tea. Are these two things related? Not really, but I adore both of them so they definitely deserve a spot here.
 
 ## 💻 Featured Projects
